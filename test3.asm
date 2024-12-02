@@ -10,5 +10,4 @@ loop_for:
 	jmp loop_for
 end: 	
 	nop
-	li r1 , 10
-	li r1 , 5
+	
